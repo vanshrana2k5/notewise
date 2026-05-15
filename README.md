@@ -6,7 +6,7 @@ Built as part of the **Peblo Full Stack Developer Challenge**, this project demo
 
 ---
 
-## ✨ Overview
+##  Overview
 
 NoteWise is a modern collaborative notes workspace designed to make note-taking more productive and intelligent.
 
@@ -23,45 +23,45 @@ The application combines a responsive React frontend, a secure Node.js API, SQLi
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔐 Authentication & Security
+### Authentication & Security
 - Secure user signup and login
 - Password hashing using bcrypt
 - JWT-based authentication
 - Protected API routes and persistent sessions
 
-### 📝 Notes Workspace
+###  Notes Workspace
 - Rich note creation and editing
 - Automatic saving
 - Tags and categories
 - Archive/unarchive notes
 - Last updated timestamps
 
-### 🤖 AI Assistant
+###  AI Assistant
 Generate intelligent insights from your notes using Anthropic Claude:
 - Concise summaries
 - Extracted action items
 - Suggested titles
 
-### 🔎 Smart Search & Filtering
+###  Smart Search & Filtering
 - Full-text keyword search
 - Filter by tags and categories
 - Sort by most recently updated
 
-### 🌍 Public Sharing
+###  Public Sharing
 - Generate public share links
 - View shared notes without login
 - Revoke access anytime
 
-### 📊 Productivity Dashboard
+###  Productivity Dashboard
 - Total notes created
 - Recently edited notes
 - Most-used tags
 - Weekly activity chart
 - AI usage statistics
 
-### 🎨 Modern UI
+###  Modern UI
 - Fully responsive design
 - Dark theme interface
 - Toast notifications
@@ -69,7 +69,7 @@ Generate intelligent insights from your notes using Anthropic Claude:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 > Add screenshots here after deployment.
 
@@ -79,7 +79,7 @@ Generate intelligent insights from your notes using Anthropic Claude:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Frontend (React + Vite)
